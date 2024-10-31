@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with leading companies worldwide.
 - 📫 You can reach me here.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I already have a degree in Economics, I won second place in the Corecon Award for the best Economics monograph in São Paulo (2024 edition), I participated in the second edition of the Neuroscience Olympics in Brazil, and my nickname is Lili.
+- ⚡ Fun fact: My nickname is Lili, I already have a degree in Economics, I won second place in the Corecon Award for the best Economics monograph in São Paulo (2024 edition), and I also participated in the second edition of the Neuroscience Olympics in Brazil.
 
 <!---
 alinebertoletti/alinebertoletti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
