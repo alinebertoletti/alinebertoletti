@@ -1,24 +1,32 @@
 ## ✨ Hello, world! I’m Aline Bertoletti 👋  
 
-🔍 **About Me**  
-🎓 I have a degree in Economics and a strong passion for **data analytics and data science**.<br/> 
-📊 Currently, I work with **research projects**, analyzing data while exploring **Databricks**.<br/>   
+---
 
-🚀 **What I’m Working On**  
-🌱 Improving my skills in **Python, SQL, Power BI, and Databricks**.<br/>   
-📚 Learning more about **big data, cloud computing, and advanced analytics**.<br/>   
-📢 Sharing my knowledge through **data science posts** in my free time.<br/>   
-🛠 Expanding my expertise after participating in a **data analytics bootcamp**.<br/>   
+### 🔍 **About Me**  
+🎓 I have a degree in Economics and a strong passion for **data analytics and data science**.  
+📊 Currently, I work with **research projects**, analyzing data while exploring **Databricks**.  
 
-🤝 **Let’s Connect!**  
-💡 I’m looking to collaborate with companies and professionals worldwide.<br/>   
-📫 **Reach me at:** here<br/> 
+---
 
-🌟 **Fun Facts**  
-⚡ I won **2nd place in the 2024 Corecon Award** for the best Economics monograph in São Paulo.<br/>   
-🧠 I participated in the **Neuroscience Olympics in Brazil**—because why not mix economics with neuroscience, right?<br/>   
-🧶 I’m learning how to **crochet** (a fun way to relax while thinking about data!).<br/>   
-⚽ I’m a huge fan of **São Paulo FC and Real Madrid**!<br/> 
+### 🚀 **What I’m Working On**  
+🌱 Improving my skills in **Python, SQL, Power BI, and Databricks**.  
+📚 Learning more about **big data, cloud computing, and advanced analytics**.  
+📢 Sharing my knowledge through **data science posts** in my free time.  
+🛠 Expanding my expertise after participating in a **data analytics bootcamp**.  
+
+---
+
+### 🤝 **Let’s Connect!**  
+💡 I’m looking to collaborate with companies and professionals worldwide.  
+📫 Connect with me on social media!  
+
+---
+
+### 🌟 **Fun Facts**  
+⚡ I won **2nd place in the 2024 Corecon Award** for the best Economics monograph in São Paulo.  
+🧠 I participated in the **Neuroscience Olympics in Brazil**—because why not mix economics with neuroscience, right?  
+🧶 I’m learning how to **crochet** (a fun way to relax while thinking about data!).  
+⚽ I’m a huge fan of **São Paulo FC and Real Madrid**!  
 
 
 
