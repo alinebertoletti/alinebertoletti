@@ -1,5 +1,4 @@
 ## ✨ Hello, world! I’m Aline Bertoletti 👋  
-
 ---
 
 ### 🔍 **About Me**  
@@ -39,12 +38,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=alinebertoletti&theme=bear&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=alinebertoletti&theme=bear&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alinebertoletti&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-[![](https://visitcount.itsvg.in/api?id=alinebertoletti&icon=9&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
